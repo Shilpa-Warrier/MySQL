@@ -57,9 +57,6 @@ Values (1,'Jane','Doe','Mexico'),
 (2,'John','Doe','Mexico'),
 (3,'Jeevan','John','Mexico');
 
-Truncate table persons;
-Select * from PErsons;
-
 #List the distinct country names from the Persons table.
 Select distinct Country_name from Persons;
 
